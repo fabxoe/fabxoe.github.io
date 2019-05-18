@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "오성민(Sungmin Oh)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  #avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "완전히 쓰러지기 전까진, 끊임 없는 담금질이다."
   location         : "Seoul, South Korea"
   email            :
@@ -130,7 +130,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-   uri: "https://junhobaik.github.io"
 # Site Footer
 footer:
   links:
