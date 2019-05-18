@@ -130,7 +130,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+   uri: https://junhobaik.github.io
 # Site Footer
 footer:
   links:
